@@ -7,8 +7,9 @@ NB: This program does not remove the virus completely, however, the effect will 
 
 **HOW TO RUN THE PROGRAM** 
 1. Double-click on the "runpy.bat" file.
-2. Accept the adminstrator permission
-3. Wait patiently for the program to run and take effect. <br>
+2. Enter the drive letter/label. eg. (Local Disk D. the drive letter/label is D)
+3. Accept the adminstrator permission
+4. Wait patiently for the program to run and take effect. <br>
  <br>
 
 Depending on the size of the files corrupted, the process might take an appreciable time. <br>
