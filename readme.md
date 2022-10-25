@@ -5,6 +5,9 @@ If your drive is shortcut and you cannot access it, then this program reverses t
 NB: This program does not remove the virus completely, however, the effect will be reversed and you can recover your files. <br>
 <br>
 
+**PREREQUISITE**
+1. Download and Install Python version 3 or higher
+
 **HOW TO RUN THE PROGRAM** 
 1. Double-click on the "runpy.bat" file.
 2. Accept the adminstrator permission. (This program does not contain any other malicious content either than what it is expected to do)
