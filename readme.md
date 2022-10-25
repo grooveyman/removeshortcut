@@ -16,5 +16,6 @@ NB: This program does not remove the virus completely, however, the effect will 
  <br>
 
 Depending on the size of the files corrupted, the process might take an appreciable time. <br>
+NB: To prevent future effects, kindly scan your drive with an antivirus after running this program<br>
 
 Thank you.
