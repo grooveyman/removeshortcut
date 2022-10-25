@@ -1,4 +1,4 @@
-**REVERSE PROGRAM FOR SHORTCUT MALWARE** <br>
+**REVERSE PROGRAM FOR SHORTCUT MALWARE ON DRIVES** <br>
 If your drive is shortcut and you cannot access it, then this program reverses the effect of shortcut malware on your laptop. After running this program, you can be able to access your files.
 
 <br>
