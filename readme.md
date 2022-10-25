@@ -7,8 +7,8 @@ NB: This program does not remove the virus completely, however, the effect will 
 
 **HOW TO RUN THE PROGRAM** 
 1. Double-click on the "runpy.bat" file.
-2. Enter the drive letter/label. eg. (Local Disk D. the drive letter/label is D)
-3. Accept the adminstrator permission
+2. Accept the adminstrator permission. (This program does not contain any other malicious content either than what it is expected to do)
+3. Enter the drive letter/label. eg. (Local Disk D. the drive letter/label is D)
 4. Wait patiently for the program to run and take effect. <br>
  <br>
 
