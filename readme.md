@@ -1,5 +1,5 @@
 **REVERSE PROGRAM FOR SHORTCUT MALWARE ON DRIVES** <br>
-If your drive is shortcut and you cannot access it, then this program reverses the effect of shortcut malware on your laptop. After running this program, you can be able to access your files.
+If your drive is infected with a shortcut virus and you cannot access it, then this program reverses the effect of shortcut malware on your laptop. After running this program, you can be able to access your files and your drive.
 
 <br>
 NB: This program does not remove the virus completely, however, the effect will be reversed and you can recover your files. <br>
